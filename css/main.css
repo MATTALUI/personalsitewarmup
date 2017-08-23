@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+}
+h1{
+  color: rgb(240,240,240);
+}
+.bg-red{
+  background-color: red;
+}
+.bg-black{
+  background-color: black;
+}
+.screen{
+  height: 100vh;
+  width: 100%;
+}
+#main{
+  background-image: url('../assets/zig zag wool.png');
+}
+#me{
+  position: relative;
+  left: 50%;
+  top: 50%;
+  border-radius: 100%;
+}
